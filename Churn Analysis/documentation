@@ -1,0 +1,10 @@
+Documentation
+
+Built a BI report relating to churn analysis based on bank customer data under the guidance of Bi with Gurpreet.
+
+
+Steps involved were fetching the data, transform data, build clean data, executing certain operations and presenting the data
+
+In this report I studied the perecentage of gender, activity status, credit card status, country and types of products  which was taken in consideration to built this project.
+Also a study was done to undersatnd the churn rate based on the number or customer and credit score range, age groups and account balance range.  
+
